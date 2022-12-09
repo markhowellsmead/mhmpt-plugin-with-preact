@@ -16,6 +16,8 @@ The Preact source code is not compiled but loaded as external dependencies. Thes
 
 ## Author
 
-Mark Howells-Mead | mark@permanenttourist.ch
+Mark Howells-Mead | mark@permanenttourist.ch | Public Github version since December 2022.
 
-Public Github version since December 2022.
+## License
+
+Please respect the GPL v3 licence, which is available via http://www.gnu.org/licenses/gpl-3.0.html.
